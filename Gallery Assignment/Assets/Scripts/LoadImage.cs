@@ -24,7 +24,7 @@ public class LoadImage : MonoBehaviour
     IEnumerator load_image()
     {
   
-        string[] filePaths = Directory.GetFiles(@"D:\Pictures\Unity assets\Pictures\11 pics", "*.jpg");
+        string[] filePaths = Directory.GetFiles(@"D:\Unity\GitHub\Gallery Assignment\Gallery\Gallery Assignment\11 pics", "*.jpg");
         for(int i = 0; i < filePaths.Length; i++)
         {
             

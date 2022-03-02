@@ -201,6 +201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Canvas: {fileID: 471438408}
+  Scrollbar: {fileID: 1315117705}
   BigImage: {fileID: 1177565076}
 --- !u!1 &204720730
 GameObject:
